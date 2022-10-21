@@ -1,4 +1,5 @@
 numpy
 matplotlib
-six
 seaborn
+tqdm
+scipy
